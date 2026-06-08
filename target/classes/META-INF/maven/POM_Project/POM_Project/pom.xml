@@ -52,7 +52,7 @@
                 <suiteXmlFiles>
 
                     <suiteXmlFile>
-                        src/test/resources/Automation_Suite.xml
+                        src/test/resources/practice_Suite.xml
                     </suiteXmlFile>
 
                 </suiteXmlFiles>
